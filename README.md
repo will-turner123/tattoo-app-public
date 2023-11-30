@@ -1,18 +1,15 @@
 
 # Tattoo App
 
-Note: This project, initially undertaken as a freelance gig, unfortunately did not reach completion. However, despite its incomplete state, the project exhibits numerous features
+Note: This project, initially undertaken as a freelance job, unfortunately did not reach completion. However, despite its incomplete state, the project exhibits numerous features
 
 This is an application that uses a Django backend with a React Native expo frontend.
 
-You can see some of the functionality of the app below
+You can see some of the functionality of the app below:
 
-View users near your location and view their profile. Search other locations + dark mode!
+- [View users near your location and view their profile. Search other locations + dark mode!](demo/1.gif)
 
-![demo 1](demo/1.gif)
-
-Post functionality
-![demo 2](demo/2.gif)
+- [Post functionality](demo/2.gif)
 
 ## Prerequisites
 
