@@ -1,0 +1,8 @@
+requests==2.25.1
+Django==3.1.7
+djangorestframework==3.14.0
+Pillow==9.5.0
+PyJWT==2.7.0
+python-dotenv==1.0.0
+rest_framework_simplejwt==0.0.2
+boto3==1.19.0
